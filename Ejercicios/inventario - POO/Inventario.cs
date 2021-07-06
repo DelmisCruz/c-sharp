@@ -108,5 +108,5 @@ public class Inventario
             cantidad = Console.ReadLine();
 
             movimientoInventario(codigo,Int32.Parse(cantidad), "-");
-        }
+    }
 }
