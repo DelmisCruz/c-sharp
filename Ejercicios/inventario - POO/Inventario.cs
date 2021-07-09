@@ -55,7 +55,7 @@ public class Inventario
         Console.Clear();
         Console.WriteLine("");
         Console.WriteLine("Ingreso de Productos al Inventario");
-        Console.WriteLine("************");
+        Console.WriteLine("**********************************");
         Console.Write("Ingrese el codigo del producto: ");
         codigo = Console.ReadLine();
         Console.Write("Ingrese la cantidad del producto: ");
@@ -70,7 +70,7 @@ public class Inventario
             Console.Clear();
             Console.WriteLine("");
             Console.WriteLine("Ajustes Positivos de Productos al Inventario" );
-            Console.WriteLine("***************");
+            Console.WriteLine("********************************************");
             Console.Write("Ingrese el codigo del producto: ");
             codigo = Console.ReadLine();
             Console.Write("Ingrese la cantidad del producto: ");
@@ -86,7 +86,7 @@ public class Inventario
             Console.Clear();
             Console.WriteLine("");
             Console.WriteLine("Salida de Productos del Inventario" );
-            Console.WriteLine("************");
+            Console.WriteLine("**********************************");
             Console.Write("Ingrese el codigo del producto: ");
             codigo = Console.ReadLine();
             Console.Write("Ingrese la cantidad del producto: ");
@@ -101,7 +101,7 @@ public class Inventario
             Console.Clear();
             Console.WriteLine("");
             Console.WriteLine("Ajuste Negativo de Productos del Inventario");
-            Console.WriteLine("***************");
+            Console.WriteLine("*******************************************");
             Console.Write("Ingrese el codigo del producto: ");
             codigo = Console.ReadLine();
             Console.Write("Ingrese la cantidad del producto: ");
